@@ -79,10 +79,18 @@ section#img01 {
     background-position: right center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
+    
 }
-
-footer {
-    background-color: black;
+section#img02 {
+    background-image: url(../imagens/background002.jpg);
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+footer{
+    background-color:black;
     color: white;
     text-align: center;
     padding: 10px;
