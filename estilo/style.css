@@ -60,6 +60,10 @@ section.image p{
     width: 400px;
     background-color: black;
 }
+section.image1{
+   background: black url(/imagens/background001.jpg) center center no-repeat fixed;
+   background-size: cover;
+}
 footer{
     background-color: black;
     color: white;
