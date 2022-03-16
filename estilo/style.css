@@ -63,6 +63,7 @@ section.image p{
 section.image1{
    background: black url(/imagens/background001.jpg) center center no-repeat fixed;
    background-size: cover;
+   color: white;
 }
 footer{
     background-color: black;
